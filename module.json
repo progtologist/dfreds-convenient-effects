@@ -10,17 +10,17 @@
       "discord": "DFreds#1238"
     }
   ],
-  "url": "https://github.com/DFreds/dfreds-convenient-effects",
-  "license": "https://github.com/DFreds/dfreds-convenient-effects/blob/main/LICENSE",
-  "readme": "https://github.com/DFreds/dfreds-convenient-effects/blob/main/README.md",
-  "bugs": "https://github.com/DFreds/dfreds-convenient-effects/issues",
-  "changelog": "https://github.com/DFreds/dfreds-convenient-effects/releases",
+  "url": "https://github.com/progtologist/dfreds-convenient-effects",
+  "license": "https://github.com/progtologist/dfreds-convenient-effects/blob/main/LICENSE",
+  "readme": "https://github.com/progtologist/dfreds-convenient-effects/blob/main/README.md",
+  "bugs": "https://github.com/progtologist/dfreds-convenient-effects/issues",
+  "changelog": "https://github.com/progtologist/dfreds-convenient-effects/releases",
   "flags": {},
-  "version": "6.0.3",
+  "version": "6.0.4",
   "compatibility": {
     "minimum": 11,
     "verified": "11.315",
-    "maximum": 11
+    "maximum": 13
   },
   "scripts": [],
   "esmodules": ["./scripts/main.js"],
@@ -41,8 +41,8 @@
   },
   "packs": [],
   "socket": true,
-  "manifest": "https://github.com/DFreds/dfreds-convenient-effects/releases/latest/download/module.json",
-  "download": "https://github.com/DFreds/dfreds-convenient-effects/releases/download/v1.2.1/dfreds-convenient-effects.zip",
+  "manifest": "https://github.com/progtologist/dfreds-convenient-effects/releases/latest/download/module.json",
+  "download": "https://github.com/progtologist/dfreds-convenient-effects/releases/download/v6.0.4/dfreds-convenient-effects.zip",
   "protected": false,
   "coreTranslation": false
 }
